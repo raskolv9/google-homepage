@@ -1,0 +1,21 @@
+#Top {
+    width: 400px;
+    margin-bottom: 400px;
+}
+#Left-Top {
+    text-align: left;
+}
+#Right-Top {
+    text-align: right;
+}
+
+#Footer {
+    margin-top: 400px;
+}
+
+.centerr {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+}
